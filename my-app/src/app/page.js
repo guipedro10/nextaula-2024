@@ -11,7 +11,7 @@ export default function Home() {
         <p>Um texto</p>
         <div className={styles.container}>
         <h2>Outro</h2>
-    </div>
+      </div>
     </main>
     
   );
